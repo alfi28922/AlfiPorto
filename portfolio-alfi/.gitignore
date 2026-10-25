@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+config.local.php
+uploads/*
+!uploads/.htaccess
+database/*.sql
+frontend/node_modules/
+.vercel/
+*.log
