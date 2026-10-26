@@ -1,0 +1,12 @@
+/* Shared ID / EN phone layout and native carousel. */
+@media(max-width:720px){
+ .about-editorial .side-notes .ae-polaroids{--note-step:clamp(36px,14vw,62px);position:relative;display:block;width:100%;height:clamp(240px,70vw,330px);margin:24px auto 0}
+ .about-editorial .side-notes .ae-polaroid{left:50%;top:50%;width:clamp(96px,32vw,144px);margin:0;transform:translate(-50%,-50%) translateX(calc(var(--spread)*var(--note-step))) rotate(calc(var(--spread)*6deg));transition:none!important}
+ .anime-theme .coverflow-showcase.is-native-carousel .fan-artboard{overflow:hidden;touch-action:auto}
+ .anime-theme .coverflow-showcase.is-native-carousel .fan-deck{position:absolute;inset:0;display:flex;align-items:center;gap:16px;padding:0 calc((100% - var(--cf-card))/2);overflow-x:auto;overflow-y:hidden;scroll-snap-type:x mandatory;scroll-padding:0;overscroll-behavior-x:contain;touch-action:pan-x pan-y pinch-zoom;-webkit-overflow-scrolling:touch;scrollbar-width:none;transform:none;perspective:none;transform-style:flat;transition:none}
+ .anime-theme .coverflow-showcase.is-native-carousel .fan-deck::-webkit-scrollbar{display:none}
+ .anime-theme .coverflow-showcase.is-native-carousel .fan-card{position:relative;left:auto;top:auto;bottom:auto;flex:0 0 var(--cf-card);width:var(--cf-card);height:var(--cf-height);scroll-snap-align:center;scroll-snap-stop:normal;transform:scale(.9);transform-origin:center;opacity:1!important;pointer-events:auto!important;touch-action:auto;filter:none!important;transition:transform .25s ease,opacity .25s ease;will-change:auto}
+ .anime-theme .coverflow-showcase.is-native-carousel .fan-card.is-active{transform:scale(1)}
+ .anime-theme .coverflow-showcase.is-native-carousel.is-dragging .fan-deck{scroll-snap-type:none;scroll-behavior:auto}
+}
+@media(prefers-reduced-motion:reduce){.anime-theme .coverflow-showcase.is-native-carousel .fan-card{transition:none}}
