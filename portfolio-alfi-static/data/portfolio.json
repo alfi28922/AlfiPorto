@@ -1,0 +1,446 @@
+{
+  "about_me": [
+    {
+      "id": 1,
+      "title": "Sedikit cerita tentang saya.",
+      "intro": "Selamat datang di halaman About Me. Ini adalah pengantar dummy yang bisa diganti melalui admin.",
+      "body": "Halo! Halaman ini disiapkan untuk menceritakan perjalanan, minat, dan cara saya bekerja.\n\nBagian ini masih berupa konten dummy. Nantinya saya akan menambahkan cerita pribadi, hal yang sedang dipelajari, dan arah yang ingin saya kembangkan.",
+      "image": "assets/images/about-alfi-main.png",
+      "hero_name": null,
+      "hero_subtitle": null,
+      "tagline": null,
+      "specialties": null,
+      "skill_highlights": null,
+      "image_secondary": "assets/images/about-alfi-secondary.png",
+      "footer_image": "",
+      "hobbies": "[{\"image\":\"assets\\/images\\/about-note-details.png\",\"caption\":\"Small details\"},{\"image\":\"assets\\/images\\/about-note-mountain.png\",\"caption\":\"Mountain days\"},{\"image\":\"assets\\/images\\/about-note-forest.png\",\"caption\":\"Forest walks\"},{\"image\":\"assets\\/images\\/about-note-road.png\",\"caption\":\"On the road\"}]",
+      "image_story": "uploads/d0b29e79de1b700d506b3ff818ce8291.jpg"
+    }
+  ],
+  "certificates": [
+    {
+      "id": 1,
+      "title": "Troubleshooting Network Services On Client Server Networks",
+      "category": "JARINGAN",
+      "period": "2023",
+      "issuer": "",
+      "image": "",
+      "url": "",
+      "sort_order": 1
+    },
+    {
+      "id": 2,
+      "title": "Panitia — Development of an IoT-Based Smart Trash Can",
+      "category": "INTERNET OF THINGS",
+      "period": "29 Agustus 2024",
+      "issuer": "HIMTI UNAS",
+      "image": "assets/images/certificates/iot-smart-trash.jpg",
+      "url": "assets/certificates/iot-smart-trash.png",
+      "sort_order": 2
+    },
+    {
+      "id": 3,
+      "title": "Introduction to Cloud and Artificial Intelligence Applications for Digital Business",
+      "category": "CLOUD & AI",
+      "period": "2024",
+      "issuer": "Digital Talent Scholarship · Kominfo",
+      "image": "assets/images/certificates/cloud-ai-training.jpg",
+      "url": "assets/certificates/cloud-ai-training.pdf",
+      "sort_order": 3
+    },
+    {
+      "id": 4,
+      "title": "Panitia — HIMTI Mengajar bersama Indonesia Plastic Recycle",
+      "category": "PENGABDIAN MASYARAKAT",
+      "period": "2025",
+      "issuer": "HIMTI UNAS · Indonesia Plastic Recycle",
+      "image": "assets/images/certificates/himti-mengajar.jpg",
+      "url": "assets/certificates/himti-mengajar.png",
+      "sort_order": 4
+    },
+    {
+      "id": 5,
+      "title": "Panitia — Workshop on Computer Vision: Hand Gesture Game Controller",
+      "category": "WORKSHOP",
+      "period": "2026",
+      "issuer": "HIMTI UNAS",
+      "image": "assets/images/certificates/computer-vision-workshop.jpg",
+      "url": "assets/certificates/computer-vision-workshop.pdf",
+      "sort_order": 5
+    },
+    {
+      "id": 6,
+      "title": "Web Developer Series 11.0 — Frontend",
+      "category": "WEB DEVELOPMENT",
+      "period": "",
+      "issuer": "dibimbing.id",
+      "image": "assets/images/certificates/frontend-dibimbing.jpg",
+      "url": "assets/certificates/frontend-dibimbing.pdf",
+      "sort_order": 6
+    },
+    {
+      "id": 7,
+      "title": "Microcredential — Introduction to Cloud and Artificial Intelligence Applications for Digital Business",
+      "category": "CLOUD & AI",
+      "period": "2024",
+      "issuer": "Kementerian Komunikasi dan Digital",
+      "image": "assets/images/certificates/cloud-ai-microcredential.jpg",
+      "url": "assets/certificates/cloud-ai-microcredential.pdf",
+      "sort_order": 7
+    },
+    {
+      "id": 8,
+      "title": "Keypro 30 — Peran UI/UX dalam Membangun Produk yang Sukses",
+      "category": "UI / UX",
+      "period": "2024",
+      "issuer": "Klasspro.id",
+      "image": "assets/images/certificates/keypro-uiux.jpg",
+      "url": "assets/certificates/keypro-uiux.png",
+      "sort_order": 8
+    },
+    {
+      "id": 9,
+      "title": "Panitia — HIMTI Goes to School",
+      "category": "PENGABDIAN MASYARAKAT",
+      "period": "Oktober 2024",
+      "issuer": "HIMTI UNAS",
+      "image": "assets/images/certificates/himti-goes-to-school.jpg",
+      "url": "assets/certificates/himti-goes-to-school.png",
+      "sort_order": 9
+    },
+    {
+      "id": 10,
+      "title": "Industrial Visit FTKI × BRIN",
+      "category": "KUNJUNGAN INDUSTRI",
+      "period": "2026",
+      "issuer": "FTKI UNAS · HIMTI · BRIN",
+      "image": "assets/images/certificates/industrial-visit-brin.jpg",
+      "url": "assets/certificates/industrial-visit-brin.pdf",
+      "sort_order": 10
+    },
+    {
+      "id": 11,
+      "title": "Sharing Session — Belajar dari Pengalaman: Sukses Mengikuti Magang dan Studi Independen",
+      "category": "PENGEMBANGAN DIRI",
+      "period": "19 Februari 2025",
+      "issuer": "Program Studi Informatika UNAS",
+      "image": "assets/images/certificates/sharing-magang.jpg",
+      "url": "assets/certificates/sharing-magang.pdf",
+      "sort_order": 11
+    },
+    {
+      "id": 12,
+      "title": "Panitia — Brainstorming Enhances Quality and Collaboration",
+      "category": "ORGANISASI",
+      "period": "26 Februari 2025",
+      "issuer": "HIMTI UNAS",
+      "image": "assets/images/certificates/studi-banding.jpg",
+      "url": "assets/certificates/studi-banding.png",
+      "sort_order": 12
+    },
+    {
+      "id": 13,
+      "title": "Indonesia Viz Idol 2026 — Peserta Kompetisi Visualisasi Data",
+      "category": "DATA VISUALIZATION",
+      "period": "27 November 2025",
+      "issuer": "Zenith Academy · PT Solusi Digital Kreasindo",
+      "image": "assets/images/certificates/indonesia-viz-idol.jpg",
+      "url": "assets/certificates/indonesia-viz-idol.jpeg",
+      "sort_order": 13
+    },
+    {
+      "id": 14,
+      "title": "Panitia — Build Your First AI Project: Creating a Smart Chatbot",
+      "category": "ARTIFICIAL INTELLIGENCE",
+      "period": "24 Januari 2026",
+      "issuer": "HIMTI UNAS · Zenith Academy",
+      "image": "assets/images/certificates/smart-chatbot.jpg",
+      "url": "assets/certificates/smart-chatbot.pdf",
+      "sort_order": 14
+    },
+    {
+      "id": 15,
+      "title": "Sharing Session — Robotic Home Industry",
+      "category": "ROBOTIKA",
+      "period": "27 Juni 2024",
+      "issuer": "Program Studi Informatika UNAS",
+      "image": "assets/images/certificates/robotic-home.jpg",
+      "url": "assets/certificates/robotic-home.png",
+      "sort_order": 15
+    },
+    {
+      "id": 16,
+      "title": "APPRODI Book Club — Navigating Productivity in Campus",
+      "category": "PENGEMBANGAN DIRI",
+      "period": "5 Desember 2025",
+      "issuer": "Asosiasi Profesi Produktivitas Indonesia (APPRODI)",
+      "image": "assets/images/certificates/approdi-productivity.jpg",
+      "url": "assets/certificates/approdi-productivity.jpg",
+      "sort_order": 16
+    },
+    {
+      "id": 17,
+      "title": "Penghargaan Pengurus HIMTI — Subdivisi Minat dan Bakat",
+      "category": "ORGANISASI",
+      "period": "2024/2025",
+      "issuer": "HIMTI UNAS",
+      "image": "assets/images/certificates/himti-member.jpg",
+      "url": "assets/certificates/himti-member.pdf",
+      "sort_order": 17
+    },
+    {
+      "id": 18,
+      "title": "From Theory to Implementation: Building Practical Programming Skills",
+      "category": "PEMROGRAMAN",
+      "period": "17 Januari 2025",
+      "issuer": "Data Science Laboratory · FTKI UNAS",
+      "image": "assets/images/certificates/practical-programming.jpg",
+      "url": "assets/certificates/practical-programming.png",
+      "sort_order": 18
+    },
+    {
+      "id": 19,
+      "title": "Develop GenAI Apps with Gemini and Streamlit",
+      "category": "GOOGLE CLOUD BADGE",
+      "period": "",
+      "issuer": "Google Cloud",
+      "image": "assets/images/certificates/gemini-streamlit.jpg",
+      "url": "assets/certificates/gemini-streamlit.png",
+      "sort_order": 19
+    },
+    {
+      "id": 20,
+      "title": "Prompt Design in Vertex AI",
+      "category": "GOOGLE CLOUD BADGE",
+      "period": "",
+      "issuer": "Google Cloud",
+      "image": "assets/images/certificates/vertex-prompt.jpg",
+      "url": "assets/certificates/vertex-prompt.png",
+      "sort_order": 20
+    }
+  ],
+  "experiences": [
+    {
+      "id": 1,
+      "title": "Enterprise System – Intern",
+      "organization": "BPKP (Badan Pengawasan Keuangan dan Pembangunan)",
+      "category": "work",
+      "period": "06/2026 – 09/2026",
+      "description": "",
+      "highlights": "[{\"title\": \"RBAC Access Control\", \"text\": \"Sistem penugasan internal pakai RBAC buat delegasi tugas dan evaluasi berjenjang.\"}, {\"title\": \"RESTful API Architecture\", \"text\": \"Bikin arsitektur backend REST API yang cepat buat handle penugasan massal (bulk-assign).\"}, {\"title\": \"MySQL Database\", \"text\": \"Ngedesain database MySQL yang aman buat simpan lampiran berkas & log penugasan.\"}, {\"title\": \"Auto Email System\", \"text\": \"Ngehubungin notifikasi email otomatis biar progres kerja tim makin transparan.\"}]",
+      "sort_order": 1
+    },
+    {
+      "id": 2,
+      "title": "SEO Specialist - Intern",
+      "organization": "PT. Global Resolusi Wafira – Jakarta, Indonesia",
+      "category": "work",
+      "period": "01/2020 – 03/2020",
+      "description": "",
+      "highlights": "[{\"title\": \"Riset Keyword\", \"text\": \"Riset kata kunci potensial buat naikin posisi website perusahaan di Google.\"}, {\"title\": \"+45% Visibilitas\", \"text\": \"Berhasil naikin visibilitas web sebesar 45% cuma dalam waktu 3 bulan.\"}, {\"title\": \"Technical SEO\", \"text\": \"Optimasi 20++ kata kunci utama, rapihin meta tag, dan percepat loading web.\"}, {\"title\": \"Trafik & Konversi\", \"text\": \"Nerapin strategi SEO yang ngefek langsung ke kenaikan trafik organik.\"}]",
+      "sort_order": 2
+    },
+    {
+      "id": 3,
+      "title": "Anggota Subdivisi Ekonomi Dan Bisnis",
+      "organization": "Himpunan Mahasiswa Teknik Informatika ( HIMTI )",
+      "category": "org",
+      "period": "11/2025 - 10/2026",
+      "description": "",
+      "highlights": "[{\"title\":\"Strategi Penjualan\",\"text\":\"Ngerancang strategi jualan merchandise dan pelatihan buat nambah kas HIMTI.\"},{\"title\":\"Sponsorship\",\"text\":\"Ngalajuin kerja sama bareng sponsor eksternal buat danai acara HIMTI.\"},{\"title\":\"Koordinasi Danus\",\"text\":\"Ngekoordinasi tim Danus di acara skala besar seperti seminar & lomba IT.\"},{\"title\":\"Transparansi Kas\",\"text\":\"Ngejaga pencatatan uang masuk dan keluar divisi biar tetap rapi.\"}]",
+      "sort_order": 3
+    },
+    {
+      "id": 4,
+      "title": "Anggota Subdivisi Pemberdayaan Mahasiswa",
+      "organization": "Himpunan Mahasiswa Teknik Informatika ( HIMTI )",
+      "category": "org",
+      "period": "05/2024 – 09/2025",
+      "description": "",
+      "highlights": "[{\"title\": \"Aspirasi Mahasiswa\", \"text\": \"Nampung dan nyalurin aspirasi temen-temen mahasiswa ke pihak prodi.\"}, {\"title\": \"Tutor Sebaya\", \"text\": \"Bikin program tutor sebaya buat bantu mahasiswa yang kesulitan ngoding.\"}, {\"title\": \"Kelompok Belajar\", \"text\": \"Ngedampingin kelompok belajar ICC biar makin siap pas ikutan lomba IT.\"}, {\"title\": \"Forum Diskusi\", \"text\": \"Ngebuka ruang diskusi santai antara mahasiswa dan pengurus organisasi.\"}]",
+      "sort_order": 4
+    },
+    {
+      "id": 5,
+      "title": "Panitia",
+      "organization": "Informatics Coding Community ( ICC )",
+      "category": "org",
+      "period": "12/2024 – 08/2025",
+      "description": "",
+      "highlights": "[{\"title\": \"Mentoring Skill\", \"text\": \"Bantu temen-temen komunitas ngasah skill ngoding dari nol sampai mahir.\"}, {\"title\": \"Workshop Ngoding\", \"text\": \"Ngagendain workshop ngoding interaktif khusus mahasiswa Informatika.\"}, {\"title\": \"Coding Challenges\", \"text\": \"Bikin tantangan ngoding internal buat ngelatih logika pemecahan masalah.\"}, {\"title\": \"Pameran Proyek IT\", \"text\": \"Ngekoordinasi pameran showcase karya aplikasi buatan anggota ICC.\"}]",
+      "sort_order": 5
+    }
+  ],
+  "profile": [
+    {
+      "id": 1,
+      "name": "Muhammad Alfi",
+      "brand": "Alfi.Dev",
+      "bio": "Mahasiswa aktif Semester 7 yang Berfokus pada Web Development, Software Engineering dan Data & System Development.",
+      "location": "Kota Bekasi, Indonesia",
+      "roles": "[\"DATA & SYSTEM DEVELOPMENT\",\"SOFTWARE ENGINEERING\",\"WEB DEVELOPMENT\"]",
+      "gpa": "3.85",
+      "status": "Looking For Job",
+      "expertise": "Ini Lah My Keahlian Gue",
+      "expertise_detail": "Software Engineering, Web Development, Data & System Dev",
+      "organization": "",
+      "organization_detail": "",
+      "email": "malfi4299@gmail.com",
+      "linkedin": "https://linkedin.com/in/muhammadalfi299",
+      "instagram": "https://instagram.com/mhmmdalfi7",
+      "instagram_label": "@mhmmdalfi7",
+      "footer_bio": "Mahasiswa Teknik Informatika Universitas Nasional Jakarta yang berfokus pada Web Development, Software Engineering, Data & System Development.",
+      "quote": "",
+      "quote_author": "",
+      "cv_file": "assets/cv/muhammad-alfi.pdf"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "BPKP Multi-Tier Enterprise Task & Performance Tracking System",
+      "category": "ENTERPRISE SYSTEM",
+      "period": "JUNI 2026 – SEPTEMBER 2026",
+      "description": "Proyek magang di BPKP buat bikin sistem penugasan internal terpusat pakai Role-Based Access Control (RBAC). Di sini saya ngebangun backend RESTful API & database MySQL yang aman buat proses penugasan massal (bulk-assign) plus upload file. Sistem ini juga dilengkapi notifikasi email otomatis biar pemantauan progres tim jadi jauh lebih transparan dan efisien.",
+      "image": "assets/images/WhatsApp Image 2026-08-03 at 15.08.49.jpeg",
+      "gallery": "[\"assets/images/WhatsApp Image 2026-08-03 at 15.08.49.jpeg\", \"assets/images/366bd054-8d37-4d61-bac4-7b37aca23455.jpg\", \"assets/images/b89d9bc8-befe-4afd-8b9d-d3137ebbcd6d.jpg\", \"assets/images/WhatsApp Image 2026-08-03 at 15.08.50 - Diedit.jpg\"]",
+      "tags": "[\"Role-Based Access Control (RBAC)\", \"RESTful API\", \"MySQL Database\", \"Bulk-Assign System\", \"Automated Email Notification\", \"Enterprise Performance Tracking\"]",
+      "url": "",
+      "sort_order": 1
+    },
+    {
+      "id": 2,
+      "title": "Vanadis Lounge Coffee App",
+      "category": "MOBILE APP",
+      "period": "MEI 2025",
+      "description": "Bikin antarmuka pengguna (UI) aplikasi Android dari layar utama, katalog produk kopi, sampai aliran checkout pemesanan. Fokus utamanya ngebikin alur pemesanan gampang dipakai dan kinerjanya mulus di HP Android.",
+      "image": "assets/images/Vanadis.jpg",
+      "gallery": "[\"assets/images/Vanadis.jpg\"]",
+      "tags": "[\"Android App\", \"Coffee App Developer\", \"Mobile UI/UX Design\", \"Android SDK\", \"Interactive Workflow\"]",
+      "url": "",
+      "sort_order": 2
+    },
+    {
+      "id": 3,
+      "title": "The Revenant’s Oath (2D Unity Game)",
+      "category": "GAME DEV",
+      "period": "NOVEMBER 2025 – JANUARI 2026",
+      "description": "Mengembangkan game 2D di Unity berbasis C#. Di proyek ini saya ngerancang logika utama game—termasuk pergerakan karakter, sistem bertarung (combat), sistem HP, sampai perilaku AI musuhnya. Aset visual dan UI diintegrasi dengan rapi biar game lancar dimainkan di PC.",
+      "image": "assets/images/revenant-title.jpg",
+      "gallery": "[\"assets/images/revenant-title.jpg\", \"assets/images/revenant-gameplay.jpg\"]",
+      "tags": "[\"Unity 2D Engine\", \"C# Scripting\", \"2D AI Enemy Behavior\", \"UI/UX Game Design\", \"PC Platform\"]",
+      "url": "",
+      "sort_order": 3
+    },
+    {
+      "id": 4,
+      "title": "DompetKu Pro - Personal Finance Tracker",
+      "category": "MOBILE APP",
+      "period": "JULI 2026",
+      "description": "Aplikasi pencatatan keuangan pribadi modern dengan gaya desain Neubrutalism UI yang bold dan interaktif. Pengguna bisa dengan mudah melacak total saldo terbaru, rincian pengeluaran per kategori dalam bentuk chart, riwayat transaksi, hingga fitur auto-fill dengan cara mengunggah struk/nota belanja.",
+      "image": "assets/images/image_72f93a.png",
+      "gallery": "[\"assets/images/image_72f93a.png\", \"assets/images/image_72f8de.png\"]",
+      "tags": "[\"Flutter Mobile App\", \"Dart Scripting\", \"Neubrutalism UI Design\", \"Interactive Charts\", \"Firebase Database\", \"Image Processing / OCR\"]",
+      "url": "",
+      "sort_order": 4
+    },
+    {
+      "id": 6,
+      "title": "Sky Rent Solution’s — Website Rental Mobil",
+      "category": "WEB DEVELOPMENT",
+      "period": "2026",
+      "description": "Website rental mobil Sky Rent Solution’s untuk memperkenalkan layanan, menampilkan pilihan armada, dan membantu calon pelanggan menemukan paket perjalanan. Katalog dilengkapi filter kategori serta pencarian mobil, informasi harga harian dan bulanan, dan tautan konsultasi melalui WhatsApp. Galeri menampilkan halaman utama, katalog armada, serta pilihan paket perjalanan.",
+      "image": "assets/images/sky-rent-home.jpg",
+      "gallery": "[\"assets/images/sky-rent-home.jpg\", \"assets/images/sky-rent-armada.jpg\", \"assets/images/sky-rent-paket.jpg\"]",
+      "tags": "[\"Website Rental Mobil\", \"Katalog & Filter Armada\", \"Paket Perjalanan\", \"Konsultasi WhatsApp\"]",
+      "url": "",
+      "sort_order": 5
+    },
+    {
+      "id": 7,
+      "title": "Website HIMTI UNAS",
+      "category": "WEB DEVELOPMENT",
+      "period": "2026 — Dalam pengembangan",
+      "description": "Website Himpunan Mahasiswa Informatika Universitas Nasional yang sedang saya kerjakan. Halaman awal menampilkan identitas HIMTI dan foto pengurus, dengan navigasi menuju informasi organisasi, kepengurusan, kabar HIMTI, dan kontak. Proyek masih dalam pengembangan; tampilan dan kontennya akan terus disempurnakan.",
+      "image": "assets/images/himti-unas-home.png",
+      "gallery": "[\"assets/images/himti-unas-home.png\"]",
+      "tags": "[\"Website Organisasi\", \"Profil HIMTI UNAS\", \"Kepengurusan\", \"Dalam Pengembangan\"]",
+      "url": "",
+      "sort_order": 6
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "title": "C++, HTML5, CSS3",
+      "category": "LANGUAGES",
+      "sort_order": 1
+    },
+    {
+      "id": 2,
+      "title": "Python & Dart",
+      "category": "LANGUAGES",
+      "sort_order": 2
+    },
+    {
+      "id": 3,
+      "title": "Flutter Dev",
+      "category": "MOBILE",
+      "sort_order": 3
+    },
+    {
+      "id": 4,
+      "title": "MikroTik RouterOS",
+      "category": "NETWORK",
+      "sort_order": 4
+    },
+    {
+      "id": 5,
+      "title": "MySQL & Firebase",
+      "category": "DATABASE",
+      "sort_order": 5
+    },
+    {
+      "id": 6,
+      "title": "SEO Optimization",
+      "category": "DIGITAL",
+      "sort_order": 6
+    },
+    {
+      "id": 7,
+      "title": "Figma, Canva, MS Office",
+      "category": "OTHER",
+      "sort_order": 7
+    },
+    {
+      "id": 8,
+      "title": "Problem Solving",
+      "category": "SOFT SKILL",
+      "sort_order": 8
+    },
+    {
+      "id": 9,
+      "title": "Attention To Detail",
+      "category": "SOFT SKILL",
+      "sort_order": 9
+    },
+    {
+      "id": 10,
+      "title": "Teamwork & Comm",
+      "category": "SOFT SKILL",
+      "sort_order": 10
+    },
+    {
+      "id": 11,
+      "title": "Adaptability",
+      "category": "SOFT SKILL",
+      "sort_order": 11
+    },
+    {
+      "id": 12,
+      "title": "Time Management",
+      "category": "SOFT SKILL",
+      "sort_order": 12
+    }
+  ]
+}
