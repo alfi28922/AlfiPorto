@@ -1,3 +1,0 @@
-import React from 'react';
-export function t(text){if(typeof text!=='string')return text;const locale=window.PORTFOLIO_I18N;if(locale?.lang!=='en')return text;const key=text.trim().replace(/\s+/g,' ');const translated=locale.strings[key];return translated===undefined?text:(text.match(/^\s*/)?.[0]||'')+translated+(text.match(/\s*$/)?.[0]||'')}
-export function LanguageSwitch(){const active=window.PORTFOLIO_I18N?.lang||'id';return <nav className="language-switch hero-language" aria-label={t('Bahasa halaman')}>{['id','en'].map(lang=><a key={lang} data-language={lang} href={lang==='en'?'index-en.html':'index.html'} lang={lang} aria-label={lang==='id'?'Bahasa Indonesia':'English'} aria-current={active===lang?'true':undefined}>{lang.toUpperCase()}</a>)}</nav>}

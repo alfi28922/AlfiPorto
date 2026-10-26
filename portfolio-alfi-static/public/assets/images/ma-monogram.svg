@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 112" fill="none">
- <title>MA — Muhammad Alfi</title>
- <defs><mask id="cut"><path fill="white" d="M0 0h200v112H0z"/><path fill="black" d="m18 28 171 71h-14L15 35z"/></mask></defs>
- <g fill="#193d5d" mask="url(#cut)">
- <path d="m6 96 18-66q4-16 20-16h9l16 35 26-35h26L99 96H76l13-48-24 30H53L41 48 28 96Z"/>
- <path fill-rule="evenodd" d="m104 96 46-82h24q8 0 10 10l12 72h-25l-3-21h-27l-12 21Zm49-42h12l-3-22Z"/>
- </g>
-</svg>
