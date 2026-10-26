@@ -1,1 +1,0 @@
-Mozilla PDF.js 5.6.205 — legacy browser build. Bundled locally for rendering the active admin-uploaded PDF as CV page images. License: Apache-2.0 (see LICENSE).
